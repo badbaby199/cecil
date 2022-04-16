@@ -20,6 +20,7 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
-    "repository": "",
+    "website": "https://github.com/badbaby199/cecil",
+    "repository": "https://github.com/badbaby199/cecil",
     "stack": "container"
 }
